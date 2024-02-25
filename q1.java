@@ -5,6 +5,7 @@ Welcome to Siksha ‘O’ Anusandhan Family.
 Welcome to “Introduction to Computer Laboratory”
 Java is fun for All !!
 
+INPUT:
     
 public class q1{
     public static void main(String[]args){
@@ -14,3 +15,9 @@ public class q1{
         System.out.println("Java is fun for All!!");     
     }
 }
+
+OUTPUT:
+Hello "ITERIAN "
+Welcome to Sikshya'O'Anusandhan Family
+Introduction to Computer Laboratory
+Java is fun for All!!
