@@ -1,3 +1,11 @@
+Question 10 : Assume a string variable ruler1 contains “1” initially i.e. String ruler1=”1” Write a java
+program to print the following output using string concatenation. (You can take extra string
+variables)
+1
+1 2 1
+1 2 1 3 1 2 1
+1 2 1 3 1 2 1 4 1 2 1 3 1 2 1
+
 public class q10{
     public static void main(String[]args){
         String ruler1="1";
@@ -10,3 +18,9 @@ public class q10{
         System.out.println(ruler1);    
     }
 }
+
+OUTPUT : 
+1
+121
+1213121
+121312141213121
