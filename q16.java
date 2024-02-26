@@ -13,7 +13,7 @@ public class q16{
         System.out.println("Enter the degree in Farenhite:");
         double f = obj.nextDouble();
         double c =(f-32)*5/9;
-        System.out.println( f + "Farenhite is" + c + "Celcius");
+        System.out.println( f + " Farenhite is " + c + " Celcius ");
     }
 }
 
